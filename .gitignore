@@ -1,0 +1,26 @@
+# Ignore environment variables
+# Dependency directories
+node_modules/
+.client/node_modules/
+.server/node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Build folders
+dist/
+build/
+.client/build/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
